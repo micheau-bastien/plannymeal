@@ -2,4 +2,6 @@
 
 Pour toute question concernant PlannyMeal, je vous invite à m'envoyer [un mail](mailto:micheau.bastien@gmail.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Télécharger l'application
+
+Vous pouvez trouver l'application dans l'App Store Apple. La version Android arrivera (très certainement) dans quelques mois !
