@@ -9,6 +9,7 @@ Vous pouvez aussi suivre PlannyMeal sur [Instagram](https://www.instagram.com/pl
 Nous sommes deux à travailler sur PlannyMeal en dehors de notre activité principale : 
 * **Bastien** qui s'occupe de l'application et de la technique
 * **Laura** s'occupe des recettes et de la communication.
+
 C'est notre petit projet de couple à nous, on a d'abord cherché une application déjà existante qui pourrait nous aider à *mieux manger*, *moins gaspiller* et *moins s'embeter*, mais après des heures sur l'App Store nous n'avions rien trouvé de convenable. 
 Le soir même, la toute premère version de l'application sortait, rien que pour nous deux ! Au bout de quelques mois d'essais, de ratés et de travail nous avons ouvert l'application en beta, juste pour quelques copains. Puis petit à petit l'idée de publier l'application pour tout le monde a germée et nous voilà aujourd'hui, à avoir dépassé les 12 000 utilisateurs ! 
 L'application grandit avec chaque utilisateur apportant sa pierre à l'édifice, en repportant un bug, en suggérant une idée nouvelle ou même en laissant un commentaire gentil sur les réseaux sociaux ou l'App Store.
