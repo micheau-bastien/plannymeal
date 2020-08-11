@@ -19,4 +19,4 @@ L'application grandit avec chaque utilisateur apportant sa pierre à l'édifice,
 En bref, si cette application vous plait, n'hésitez vraiment à nous faire un petit commentaire sur l'App Store, c'est ça qui nous donne l'envie de continuer à toujours améliorer l'application !
 
 ### Télécharger l'application
-Si vous avez un iPhone, vous pouvez installer l'application via l'[App Store](https://apps.apple.com/gb/app/plannymeal-planning-repas/id1449502766). La version Android arrivera (très certainement) dans quelques mois !
+Si vous avez un iPhone, vous pouvez installer l'application via l'[App Store](https://apps.apple.com/fr/app/plannymeal-planning-repas/id1449502766). La version Android arrivera (très certainement) dans quelques mois !
