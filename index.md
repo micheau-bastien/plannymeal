@@ -1,4 +1,4 @@
-## Page de support pour PlannyMeal
+## Besoin de support ?
 
 Si tu as une question ou un soucis concernant PlannyMeal, je t'invite à nous envoyer [un mail](mailto:plannymeal@gmail.com) et on y répondra au plus vite. 
 
